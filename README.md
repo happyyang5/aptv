@@ -1,6 +1,16 @@
 # APTV
 AppleWatch 专用直播源
 https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iwatch.m3u
+全部合一
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/ballinone.m3u
+虎牙斗鱼二合一
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/allinone.m3u
+虎牙一起看、原创和科技板块
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/yqk.m3u
+自己观看的虎牙频道
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/ya.m3u
+自己观看的斗鱼频道
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/yu.m3u
 
 🎉 🎉 APTV正式上架AppStore啦，支持节目回看！
 

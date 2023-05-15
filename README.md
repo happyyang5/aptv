@@ -34,6 +34,21 @@ https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u
 全部合集
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Aballinone.m3u
 
+## 外网IP集合
+
+虎牙一起看
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/netyqk.m3u
+
+虎牙直播
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/netya.m3u
+
+斗鱼直播
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/netyu.m3u
+
+
+全部合集
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/netallinone.m3u
+
 🎉 🎉 APTV正式上架AppStore啦，支持节目回看！
 
 支持iOS、iPadOS、tvOS、watchOS、macOS（已上Testflight）

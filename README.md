@@ -17,15 +17,30 @@ https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u
 自己观看的斗鱼频道
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/yu.m3u
 
+## 内外网IP集合
+
+虎牙一起看
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Ayqk.m3u
+
+虎牙直播
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Aya.m3u
+
+斗鱼直播
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Ayu.m3u
+
+虎牙斗鱼二合一
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Ayuorya.m3u
+
+全部合集
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Aballinone.m3u
+
 🎉 🎉 APTV正式上架AppStore啦，支持节目回看！
 
 支持iOS、iPadOS、tvOS、watchOS、macOS（已上Testflight）
 
 <a href='https://apps.apple.com/cn/app/aptv/id1630403500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 
-## TG交流群
 
-> [t.me/AptvPlayer](https://t.me/AptvPlayer)
 ## 介绍
 
 一个用于播放电视直播流的多功能工具类App

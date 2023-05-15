@@ -29,7 +29,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Ayu.m3u
 
 虎牙斗鱼二合一
-https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Ayuorya.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Ayaoryu.m3u
 
 全部合集
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/Aballinone.m3u

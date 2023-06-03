@@ -48,6 +48,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u
 斗鱼直播
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/netyu.m3u
 
+YY轮播
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/netyylunbo.m3u
 
 全部合集
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/netallinone.m3u

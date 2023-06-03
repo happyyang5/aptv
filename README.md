@@ -17,6 +17,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u
 自己观看的斗鱼频道
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/yu.m3u
 
+自己观看的YY轮播频道
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/aptv/master/m3u/ydyylunbo.m3u
+
 ## 内外网IP集合
 
 虎牙一起看
